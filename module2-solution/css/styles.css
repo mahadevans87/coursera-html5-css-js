@@ -1,7 +1,10 @@
 /********** Base styles **********/
 * {
   box-sizing: border-box;
-  font-family: Helvetica;
+}
+
+body {
+  font-family: 'Abel', sans-serif;
 }
 h1 {
   margin-bottom: 30px;
